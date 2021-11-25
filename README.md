@@ -1,14 +1,14 @@
 <p align='center'>
-<a href="https://www.linkedin.com/in/hossakahideo/"><img height="30" src="https://github.com/Kaleckian/Kaleckian/Img/little_linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://easydelivery.com.br/"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_easy.png"></a>&nbsp;&nbsp;
-<a href="http://lattes.cnpq.br/1193315969610624"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_lattes.png"></a>&nbsp;&nbsp;
+<a href="https://www.easydelivery.com.br/"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/little_easy.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin/in/hossakahideo"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/little_linkedin.png"></a>&nbsp;&nbsp;
+<a href="http://www.lattes.cnpq.br/1193315969610624"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/little_lattes.png"></a>&nbsp;&nbsp;
 </p>
 
-[![little_UFPR](https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_UFPR.png)] Economist (UFPR - 2011)
+[![little_UFPR](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_UFPR.png)] Economist (UFPR - 2011)
 
-[![little_FGV_Management](https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_FGV_Management.png)] MBA in Financial Management and Control (FGV-RJ - 2014)
+[![little_FGV_Management](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_FGV_Management.png)] MBA in Financial Management and Control (FGV-RJ - 2014)
 
-[![little_EMAp_FGV](https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_EMAp_FGV.png)] MSc. in Applied Mathematics (EMAp/FGV-RJ - 2018)
+[![little_EMAp_FGV](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_EMAp_FGV.png)] MSc. in Applied Mathematics (EMAp/FGV-RJ - 2018)
 
 
 <!--
