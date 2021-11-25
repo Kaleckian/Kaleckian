@@ -4,11 +4,11 @@
 <a href="http://www.lattes.cnpq.br/1193315969610624"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/little_lattes.png"></a>&nbsp;&nbsp;
 </p>
 
-[![little_UFPR](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_UFPR.png)] Economist (UFPR - 2011)
+![little_UFPR](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_UFPR.png) Economist (UFPR - 2011)
 
-[![little_FGV_Management](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_FGV_Management.png)] MBA in Financial Management and Control (FGV-RJ - 2014)
+![little_FGV_Management](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_FGV_Management.png) MBA in Financial Management and Control (FGV-RJ - 2014)
 
-[![little_EMAp_FGV](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_EMAp_FGV.png)] MSc. in Applied Mathematics (EMAp/FGV-RJ - 2018)
+![little_EMAp_FGV](https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/Img/tiny_EMAp_FGV.png) MSc. in Applied Mathematics (EMAp/FGV-RJ - 2018)
 
 
 <!--
