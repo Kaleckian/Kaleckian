@@ -1,16 +1,31 @@
-### Hi there 👋
+<p align='center'>
+<a href="https://www.linkedin.com/in/hossakahideo/"><img height="30" src="https://github.com/Kaleckian/Kaleckian/Img/little_linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://easydelivery.com.br/"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_easy.png"></a>&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/1193315969610624"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_lattes.png"></a>&nbsp;&nbsp;
+</p>
+
+[![little_UFPR](https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_UFPR.png)] Economist (UFPR - 2011)
+
+[![little_FGV_Management](https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_FGV_Management.png)] MBA in Financial Management and Control (FGV-RJ - 2014)
+
+[![little_EMAp_FGV](https://raw.githubusercontent.com/Kaleckian/Kaleckian/Img/little_EMAp_FGV.png)] MSc. in Applied Mathematics (EMAp/FGV-RJ - 2018)
+
 
 <!--
-**Kaleckian/Kaleckian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+little img weight/height <- 0.92>
 -->
+
+
+<!--
+Emoji Names: https://emojipedia.org/emoji/
+HTML Entities: https://www.fileformat.info/index.htm
+-->
+
+<!--
+Host images on GitHub
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master <GIF_NAME>.gif" width="30px">
+-->
+
+<!--
+https://shields.io/
+>
