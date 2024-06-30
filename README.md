@@ -1,10 +1,3 @@
-<p align='center'>
-<a href="https://bluebellindex.com/"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/img/little_bluebell.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin/in/hossakahideo"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/img/little_linkedin.png"></a>&nbsp;&nbsp;
-<a href="http://www.lattes.cnpq.br/1193315969610624"><img height="30" src="https://raw.githubusercontent.com/Kaleckian/Kaleckian/main/img/little_lattes.png"></a>&nbsp;&nbsp;
-</p>
-
-
 # Bio
 I’m a South Brazilian economist of full-blooded Yonsei heritage with a graduate specialization in Financial Management and Control and a master's degree in Applied Mathematics. This means that I am a "man without charm" (Unger, M.) currently living among the most charming people of our beautiful Rio de Janeiro-RJ of mixed cultures, ethnicities, and walks of life.
 
